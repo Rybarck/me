@@ -8,8 +8,3 @@ Atualmente estou focado em soluções com Inteligência Artificial, automações
 Linguagens de estudo: Java, C.
 Tecnologias e Ferramentas: Git/GitHub, Firebase, n8n.
 Áreas de Interesse: Desenvolvimento Web, SaaS, Inteligência Artificial, Automação de Processos.
-
-📂 Projetos
-
-🔹 [Bookly – SaaS de Agendamento]()
-Plataforma SaaS para agendamentos online, focada em PMEs.
